@@ -1,0 +1,21 @@
+Python Developer
+  OOPS concepts
+    Inheritance
+    Polymorphism
+    Encapsulation
+    Method Overloading
+    Method Overriding
+    Operator Overloading
+    Decorators
+    Generators
+    __init__ method
+    self argument
+    __name__ method
+    lambda function with examples
+    Recursion using Python
+    Constructors
+    Duck Typing
+    Exception Handling
+    Multithreading
+    File handling using with statement
+    
